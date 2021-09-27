@@ -1,2 +1,2 @@
-This are the Projects we have completed in group.
-We have taken vaccination dataset for analyzing data and for data visualation.
+This are the Projects i have completed.
+I have taken vaccination dataset and Spotify dataset for analyzing data and for data visualation.
